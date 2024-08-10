@@ -8,4 +8,4 @@
 交互方式: 图形界面
 
 ## 教程安利
-本项目已报名书生大模型第三期实战营，如果你也想参加，请点击进入GitHub 仓库(https://github.com/InternLM/Tutorial）
+本项目已报名书生大模型第三期实战营，如果你也想参加，请点击进入GitHub 仓库( https://github.com/InternLM/Tutorial ）
